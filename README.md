@@ -37,7 +37,7 @@ Sigue estos pasos para levantar todo el entorno en tu máquina local.
 Abre tu terminal (PowerShell o CMD) y ejecuta:
 ```bash
 git clone https://github.com/Fafifo92/asisya-test-job.git
-cd PruebaFullStack
+cd asisya-job-challenge
 ```
 
 ### Paso 2: Ejecutar con Docker Compose
